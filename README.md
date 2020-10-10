@@ -38,7 +38,7 @@ I had a tiny images issue in my collection view that was fixed by changing estim
 
 ### App Walkthrough GIF
 
-<img src="https://media.giphy.com/media/kyvp4wgaMz6xZ5OOuK/giphy.gif" width=250><br>
+<img src="https://media.giphy.com/media/kyvp4wgaMz6xZ5OOuK/giphy.gif" width=300><br>
 
 ### Notes
 Had some issues with installing Cocoapods -- needed to follow steps [here](https://github.com/CocoaPods/CocoaPods/issues/9538#issuecomment-586581623).  
